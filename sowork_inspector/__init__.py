@@ -1,0 +1,1 @@
+"""Independent SoWork presence collector."""
